@@ -80,11 +80,6 @@ npm install
 npm run dev
 ```
 
----
-
-<img width="1047" height="697" alt="image" src="https://github.com/user-attachments/assets/54b346cc-b65d-41ff-b4ab-3893e4c89137" />
-
----
 
 ## 🔥 Future Enhancements
 
@@ -101,6 +96,9 @@ Praveen Kumar B
 
 GitHub:
 https://github.com/praveen02102005
+
+
+<img width="1047" height="697" alt="image" src="https://github.com/user-attachments/assets/54b346cc-b65d-41ff-b4ab-3893e4c89137" />
 
 ---
 
