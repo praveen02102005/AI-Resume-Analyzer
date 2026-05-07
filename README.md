@@ -1,26 +1,111 @@
-# AI-Resume-Analyzer
+# 🚀 AI Resume Analyzer
 
-An AI-powered resume analyzer tool.
+An AI-powered Resume Analyzer web application that evaluates resumes, checks ATS compatibility, analyzes skills, and provides career improvement suggestions.
 
-## Features
+---
 
-- Analyze resumes using AI
-- Provide insights and suggestions
+## 📌 Features
 
-## Installation
+✅ Resume Upload (PDF/DOCX)  
+✅ ATS Score Analysis  
+✅ Skill Gap Detection  
+✅ AI-Based Suggestions  
+✅ Resume Ranking System  
+✅ User Authentication  
+✅ Dashboard Analytics  
+✅ Dark/Light Mode  
 
-1. Clone the repository
-2. Install dependencies
-3. Run the application
+---
 
-## Usage
+## 🛠️ Tech Stack
 
-Describe how to use the tool.
+### Frontend
+- React.js
+- Tailwind CSS
+- Axios
 
-## Contributing
+### Backend
+- Node.js
+- Express.js
 
-Contributions are welcome!
+### Database
+- MongoDB Atlas
 
-## License
+### AI / ML
+- Python
+- NLP
+- Scikit-learn
 
-MIT License
+---
+
+## 📂 Project Structure
+
+```bash
+AI-Resume-Analyzer/
+│
+├── frontend/
+├── backend/
+├── ai-model/
+├── README.md
+└── package.json
+```
+
+---
+
+## ⚙️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/praveen02102005/AI-Resume-Analyzer.git
+```
+
+### Install Frontend
+
+```bash
+cd frontend
+npm install
+```
+
+### Install Backend
+
+```bash
+cd backend
+npm install
+```
+
+### Start Project
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Screenshots
+
+Add your screenshots here.
+
+---
+
+## 🔥 Future Enhancements
+
+- AI Interview Preparation
+- LinkedIn Profile Analyzer
+- Job Recommendation System
+- Multi-language Resume Support
+
+---
+
+## 👨‍💻 Author
+
+Praveen Kumar B
+
+GitHub:
+https://github.com/praveen02102005
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
